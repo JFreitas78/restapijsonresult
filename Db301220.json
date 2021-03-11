@@ -1,5 +1,7 @@
 {
 	"content": {
+		"status": 200,
+		"statusMessage": "OK",
 		"body": {
 			"status": "S",
 			"mensagem": "Dados retornados com sucesso",
